@@ -3,19 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "deckgl"]
-	path = deckgl
-	url = https://github.com/crazycapivara/deckgl
-	shallow = true
-	registered = true
 [submodule "graphhopper"]
 	path = graphhopper
 	url = https://github.com/crazycapivara/graphhopper-r
-	shallow = true
-	registered = true
-[submodule "mapboxer"]
-	path = mapboxer
-	url = https://github.com/crazycapivara/mapboxer
 	shallow = true
 	registered = true
 [submodule "owmr"]

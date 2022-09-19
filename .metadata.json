@@ -1,14 +1,6 @@
 [
   {
-    "package": "deckgl",
-    "oncran": true
-  },
-  {
     "package": "graphhopper",
-    "oncran": true
-  },
-  {
-    "package": "mapboxer",
     "oncran": true
   },
   {
