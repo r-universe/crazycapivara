@@ -1,10 +1,10 @@
 [
   {
-    "package": "owmr",
+    "package": "deckgl",
     "oncran": true
   },
   {
-    "package": "deckgl",
+    "package": "graphhopper",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "graphhopper",
+    "package": "owmr",
     "oncran": true
   }
 ]
