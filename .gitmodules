@@ -5,12 +5,6 @@
 [submodule "deckgl"]
 	path = deckgl
 	url = https://github.com/crazycapivara/deckgl
-[submodule "graphhopper"]
-	path = graphhopper
-	url = https://github.com/crazycapivara/graphhopper-r
 [submodule "mapboxer"]
 	path = mapboxer
 	url = https://github.com/crazycapivara/mapboxer
-[submodule "owmr"]
-	path = owmr
-	url = https://github.com/crazycapivara/owmr
