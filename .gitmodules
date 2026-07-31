@@ -5,6 +5,3 @@
 [submodule "deckgl"]
 	path = deckgl
 	url = https://github.com/crazycapivara/deckgl
-[submodule "mapboxer"]
-	path = mapboxer
-	url = https://github.com/crazycapivara/mapboxer
